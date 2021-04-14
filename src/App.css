@@ -1,0 +1,21 @@
+
+ul{
+  text-align: center;
+  font-size: large;
+  color: blue;
+  font-weight: 500;
+  
+}
+.visibility-btn{
+
+  color: white;
+  font-size: large;
+  margin-left: 20pc;
+  background-color: rgb(0, 174, 255);
+  size: 150px;
+  border-radius: 15%;
+  border-color: white;
+  text-align: center;
+  margin-left: 37pc;
+}
+
